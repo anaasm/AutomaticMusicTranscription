@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\ana_m\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintPath": "D:\\An3\\Licenta\\automaticMusicTranscription\\backend\\env\\Scripts\\pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+}
